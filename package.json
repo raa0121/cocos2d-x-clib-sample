@@ -1,0 +1,9 @@
+{
+  "name": "cocos2dx-clib-sample",
+  "version": "0.0.1",
+  "repo": "raa0121/cocos2dx-clib-sample",
+  "dependencies" : {
+    "raa0121/cocos2d-x": "clib"
+  },
+  "install": "make install"
+}
